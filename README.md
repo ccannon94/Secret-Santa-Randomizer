@@ -10,11 +10,11 @@ person2, person2@yahoo.com
 person3, person3@aol.com
 ```
 
-2. **Email Configuration File** - This should have the senders email address and password, separated by a new line.
+2. **Email Configuration File** - This should have the senders email address, password, and the desired subject line separated by a new line.
 
 ```
 bobby@gmail.com
 bobbyIsAwesome01033
+Here's your assignment for our awesome Secret Santa!
 ```
 
-Additionall
